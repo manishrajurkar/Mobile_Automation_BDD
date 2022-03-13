@@ -1,0 +1,4 @@
+//C:\android-sdk\platform-tools\adb.exe -P 5037 -s sso7m7ljnzi765tg shell am start -n com.miui.calculator/com.miui.calculator.cal.CalculatorActivity -S -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000
+
+//            capabilities.setCapability("appPackage","io.moia.neptune");
+//            capabilities.setCapability("appActivity","io.moia.neptune.scene.MainActivity");
