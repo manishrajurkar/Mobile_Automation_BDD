@@ -1,6 +1,6 @@
 # Automation Framework
 
-This is a UI test automation framework developed based on the Page Object Model (POM) Design Pattern using TestNG framework
+This is a Appium Mobile test automation framework for Android devices using Cucumber BDD.
 
 
 ## Getting Started
@@ -16,11 +16,11 @@ All you need to do is to run the below command to build the project using Maven
 
 #### 1. Copy GitHub https URL
 ```bash
-git clone https://github.com/manishrajurkar87/weathershopper_tdd_pom_testng_docker.git
+git clone https://github.com/manishrajurkar/Mobile_Automation_BDD.git
 ```
 #### 2. Navigate to the location where pom.xml file is present
 ```bash
-cd weathershopper_tdd_pom_testng_docker/  
+cd Mobile_Automation_BDD/  
 ```
 #### 3. Run maven command
 ```bash
